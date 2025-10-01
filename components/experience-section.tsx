@@ -16,7 +16,7 @@ export default function ExperienceSection() {
       duration: "May 2025 - Jul 2025",
       description:
         "I assisted in developing 2 homewear collections, researching 50+ consumer insights and 10+ fabric trends, ideating 5+ product concepts, and collaborating with a 5-member team to refine designs and enhance brand identity.",
-      image: "/creative-team-multimedia-systems.jpg",
+      image: "/HMBDY_intern.png",
     },
     {
       title: "Regional Head Volley BINUS",
@@ -24,7 +24,7 @@ export default function ExperienceSection() {
       duration: "Apr 2025 - Present",
       description:
         "I led and coordinated 10+ volleyball activities, managed a team of coordinators, represented the club in regional meetings, and supported athlete development, improving team performance by 15%.",
-      image: "/creative-team-multimedia-systems.jpg",
+      image: "/regional_head.jpeg",
     },
   ]
 

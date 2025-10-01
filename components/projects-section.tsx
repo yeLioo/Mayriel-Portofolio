@@ -19,13 +19,13 @@ export default function ProjectsSection() {
       tags: ["Axure RP", "Android Studio"],
       link: "https://github.com/yeLioo/D-Classics-Books-UX-Lab-Project", // Replace with your actual project link
     },
-    {
-      title: "Bean Voyage",
-      description:
-        "Coffee shop website design for Bean Voyage, focused on seamless ordering and cozy brand experience.",
-      tags: ["Figma", "UI/UX"],
-      link: "https://www.figma.com/proto/Ro2PRxgROPw2x3uGryntdm/Bean-Voyage?node-id=1-3&p=f&t=3wCANDYqSnLp6Gnd-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3", // Replace with your actual project link
-    },
+    // {
+    //   title: "Bean Voyage",
+    //   description:
+    //     "Coffee shop website design for Bean Voyage, focused on seamless ordering and cozy brand experience.",
+    //   tags: ["Figma", "UI/UX"],
+    //   link: "https://www.figma.com/proto/Ro2PRxgROPw2x3uGryntdm/Bean-Voyage?node-id=1-3&p=f&t=3wCANDYqSnLp6Gnd-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3", // Replace with your actual project link
+    // },
   ]
 
   const [selectedProject, setSelectedProject] = useState(null)

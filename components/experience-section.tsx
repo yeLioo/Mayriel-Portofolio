@@ -8,7 +8,7 @@ export default function ExperienceSection() {
       duration: "2021 - 2022",
       description:
         "I led 20+ members across 6 divisions, organized virtual events engaging 70% of students, and spearheaded the shift to hybrid programs with 8+ successful initiatives.",
-      image: "/student-laptop-study-desk.jpg",
+      image: "/foto_osis.jpg.jpeg",
     },
     {
       title: "Research and Development Intern",

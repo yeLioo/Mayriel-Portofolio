@@ -6,11 +6,11 @@ import { ExternalLink } from "lucide-react"
 export default function ProjectsSection() {
   const projects = [
     {
-      title: "RUindows MPF Lab Project",
+      title: "Matsuri Soda: Branding, Packaging, and UI/UX Design",
       description:
-        "Built a JavaFX prototype OS interface (RUindows) with core UI and interactions under strict constraints.",
-      tags: ["JavaFX", "UI/UX"],
-      link: "https://github.com/yeLioo/RUindows-MPF-Project", // Replace with your actual project link
+        "A product website and visual identity for Matsuri Soda, featuring branding, packaging, and responsive UI/UX prototypes built in Figma.",
+      tags: ["Figma", "Canva", "UI/UX"],
+      link: "https://www.figma.com/proto/myllV6ldJHk9LkPQ0ghRfW/matsuri?node-id=0-1&t=PBL5SRo6xAmaywAj-1", // Replace with your actual project link
     },
     {
       title: "D'Classics Books UX Lab Project",

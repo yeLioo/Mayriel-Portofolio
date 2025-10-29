@@ -87,7 +87,7 @@ export function HeroSection() {
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-balance animate-fade-in-up">
             Hi, I'm{" "}
             <span className="text-primary inline-block hover:scale-110 transition-transform duration-300 cursor-default">
-              Mayriel Godeli 
+              Mayriel Godeliva 
             </span>
           </h1>
           <p className="text-xl sm:text-2xl text-muted-foreground text-balance max-w-2xl mx-auto animate-fade-in-up-delayed">

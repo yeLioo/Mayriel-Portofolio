@@ -68,16 +68,16 @@ export function ProjectsSection() {
                   ))}
                 </div>
                 <div className="flex gap-3 pt-2">
-                  <Button variant="outline" size="sm" className="flex-1 bg-transparent" asChild>
+                  {/* <Button variant="outline" size="sm" className="flex-1 bg-transparent" asChild>
                     <a href={project.github} target="_blank" rel="noopener noreferrer">
                       <Github className="mr-2 h-4 w-4" />
                       GitHub
                     </a>
-                  </Button>
+                  </Button> */}
                   <Button size="sm" className="flex-1" asChild>
                     <a href={project.demo} target="_blank" rel="noopener noreferrer">
                       <ExternalLink className="mr-2 h-4 w-4" />
-                      Demo
+                      View Project
                     </a>
                   </Button>
                 </div>

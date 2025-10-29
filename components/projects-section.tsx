@@ -19,6 +19,7 @@ const projects = [
     tags: ["Axure.RP", "Android Studio"],
     image: "/task-management-dashboard.png",
     github: "https://github.com/yeLioo/D-Classics-Books-UX-Lab-Project",
+    demo: "https://rhv578.axshare.com/?g=4&id=su13na&p=login",
   },
   {
     title: "Lighthouse Scene Three.js",

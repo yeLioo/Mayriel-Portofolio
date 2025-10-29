@@ -33,7 +33,7 @@ const projects = [
     title: "Mimo: Finance Tracker (On Progress)",
     description: "Mimo is a web-based finance tracker designed to simplify budgeting and spending management with real-time data and a modern, easy-to-use interface.",
     tags: ["React.js", "Firebase", "CSS", "Figma"],
-    image: "/LandingPage.png",
+    image: "/SignUpPage.png",
     demo: "https://mimo-finance-app.vercel.app/",
   }
 ]

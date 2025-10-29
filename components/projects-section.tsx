@@ -10,14 +10,14 @@ const projects = [
     description:
       "A product website and visual identity for Matsuri Soda, featuring branding, packaging, and responsive UI/UX prototypes built in Figma.",
     tags: ["Figma", "Canva", "UI/UX"],
-    image: "/modern-ecommerce-interface.png",
+    image: "/Matsuri Soda.png",
     demo: "https://www.figma.com/proto/myllV6ldJHk9LkPQ0ghRfW/matsuri?node-id=0-1&t=PBL5SRo6xAmaywAj-1",
   },
   {
     title: "D'Classics Books UX Lab Project",
     description: "Prototyped (Axure RP 9) and implemented (Android Studio) D'Classics Books, a curated mobile bookstore app featuring auth, carousel, categorized repeaters, validated ordering flows, and multi-store listings.",
     tags: ["Axure.RP", "Android Studio"],
-    image: "/task-management-dashboard.png",
+    image: "/D Classics Books.png",
     github: "https://github.com/yeLioo/D-Classics-Books-UX-Lab-Project",
     demo: "https://rhv578.axshare.com/?g=4&id=su13na&p=login",
   },
@@ -25,7 +25,7 @@ const projects = [
     title: "Lighthouse Scene Three.js",
     description: "A real-time 3D environment showcasing procedural water, dynamic sky, and cinematic lighting. Features an animated lighthouse, boat, and birds rendered with reflection and soft shadow realism.",
     tags: ["Three.js", "JavaScript", "WebGL", "3D Animation"],
-    image: "/website-builder-interface.jpg",
+    image: "/Lighthouse.jpg",
     github: "https://github.com/yeLioo/Lighthouse-Scene-Three.js.git",
     demo: "https://drive.google.com/file/d/1kfcjOjyti3s5hwLuPbAePNUHwUTleQ-O/view?usp=sharing",
   },
@@ -33,7 +33,7 @@ const projects = [
     title: "Mimo: Finance Tracker (On Progress)",
     description: "Mimo is a web-based finance tracker designed to simplify budgeting and spending management with real-time data and a modern, easy-to-use interface.",
     tags: ["React.js", "Firebase", "CSS", "Figma"],
-    image: "/website-builder-interface.jpg",
+    image: "/Landing Page.jpg",
     demo: "https://mimo-finance-app.vercel.app/",
   }
 ]

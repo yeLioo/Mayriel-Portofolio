@@ -91,7 +91,7 @@ export function HeroSection() {
             </span>
           </h1>
           <p className="text-xl sm:text-2xl text-muted-foreground text-balance max-w-2xl mx-auto animate-fade-in-up-delayed">
-            A passionate developer crafting beautiful and functional digital experiences
+            Computer Science Student | Blending Tech & Creativity | Exploring UI/UX, Product Design & Brand Storytelling
           </p>
           <div className="pt-8 animate-fade-in-up-more-delayed">
             <Button

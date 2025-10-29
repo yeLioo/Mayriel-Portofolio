@@ -18,7 +18,7 @@ const projects = [
     description: "Prototyped (Axure RP 9) and implemented (Android Studio) D'Classics Books, a curated mobile bookstore app featuring auth, carousel, categorized repeaters, validated ordering flows, and multi-store listings.",
     tags: ["Axure.RP", "Android Studio"],
     image: "/D Classics Books.png",
-    github: "https://github.com/yeLioo/D-Classics-Books-UX-Lab-Project",
+    // github: "https://github.com/yeLioo/D-Classics-Books-UX-Lab-Project",
     demo: "https://rhv578.axshare.com/?g=4&id=su13na&p=login",
   },
   {
@@ -26,7 +26,7 @@ const projects = [
     description: "A real-time 3D environment showcasing procedural water, dynamic sky, and cinematic lighting. Features an animated lighthouse, boat, and birds rendered with reflection and soft shadow realism.",
     tags: ["Three.js", "JavaScript", "WebGL", "3D Animation"],
     image: "/Lighthouse.jpg",
-    github: "https://github.com/yeLioo/Lighthouse-Scene-Three.js.git",
+    // github: "https://github.com/yeLioo/Lighthouse-Scene-Three.js.git",
     demo: "https://drive.google.com/file/d/1kfcjOjyti3s5hwLuPbAePNUHwUTleQ-O/view?usp=sharing",
   },
   {

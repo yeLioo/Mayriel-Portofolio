@@ -23,7 +23,7 @@ const tools = [
   { name: "Figma", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" },
   { name: "VS Code", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" },
   { name: "Canva", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" },
-  { name: "Axure RP", logo: "/rpicon.png" },
+  { name: "Axure RP", logo: "https://upload.wikimedia.org/wikipedia/commons/0/05/Axure_RP_icon.svg" },
 ]
 
 export function SkillsSection() {

@@ -29,13 +29,10 @@ export function AboutSection() {
             </div>
             <div className="space-y-6">
               <p className="text-muted-foreground leading-relaxed">
-                I'm a passionate developer with a love for creating elegant solutions to complex problems. With
-                expertise in modern web technologies, I specialize in building responsive, user-friendly applications
-                that make a difference.
+                As a Computer Science student at BINUS University, I’ve explored both technical and creative roles through internships, organizations, and community involvement. My experiences in market research, social media management, event coordination, and design have strengthened my skills in leadership, collaboration, and communication, especially through active roles in the Student Council, BINUS Volleyball Club, and Antiokhia.
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                When I'm not coding, you can find me exploring new technologies, contributing to open-source projects,
-                or sharing knowledge with the developer community.
+                I’ve worked on projects ranging from designing merchandise and event visuals to contributing to product research for lifestyle brands, while also exploring UI/UX design to blend creativity with usability. Passionate about design and problem-solving, I enjoy creating meaningful experiences, whether through digital products, community events, or research-driven projects, and I’m always eager to learn, collaborate, and grow where technology meets creativity.
               </p>
                <Button onClick={handleDownloadCV} className="group">
                 <Download className="mr-2 h-4 w-4 transition-transform group-hover:translate-y-1" />

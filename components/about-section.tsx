@@ -7,10 +7,9 @@ import Image from "next/image"
 
 export function AboutSection() {
   const handleDownloadCV = () => {
-    // Create a dummy CV download - replace with your actual CV file
     const link = document.createElement("a")
-    link.href = "/cv.pdf" // Replace with your actual CV path
-    link.download = "CV.pdf"
+    link.href = "/Pulkeria Mayriel Rheimitz Godeliva-resume.pdf" 
+    link.download = "/Pulkeria Mayriel Rheimitz Godeliva-resume.pdf"
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)

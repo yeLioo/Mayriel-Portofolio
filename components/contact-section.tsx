@@ -8,7 +8,7 @@ const contactLinks = [
   {
     name: "LinkedIn",
     icon: Linkedin,
-    href: "www.linkedin.com/in/mayriel-godeliva",
+    href: "https://www.linkedin.com/in/mayriel-godeliva/",
     color: "hover:text-[#0077b5]",
   },
   {

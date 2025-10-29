@@ -9,7 +9,7 @@ const experiences = [
     period: "Apr 2025 - Present",
     description: "I led and coordinated 10+ volleyball activities, managed a team of coordinators, represented the club in regional meetings, and supported athlete development, improving team performance by 15%.",
     tags: ["Leadership", "Team Work", "Time Management", "Responsibility"],
-    image: "/regional_head.png",
+    image: "/regional_head.jpeg",
   },
   {
     title: "Research and Development Intern",
@@ -17,7 +17,7 @@ const experiences = [
     period: "May 2025 - Jul 2025",
     description: "I assisted in developing 2 homewear collections, researching 50+ consumer insights and 10+ fabric trends, ideating 5+ product concepts, and collaborating with a 4-member team to refine designs and enhance brand identity.",
     tags: ["Trend Analysis", "Market Research", "Product Innovation"],
-    image: "/HMBDY_intern.jpg",
+    image: "/HMBDY_intern.png",
   },
   {
     title: "Student Council President",
@@ -25,7 +25,7 @@ const experiences = [
     period: "2021 - 2022",
     description: "I led 20+ members across 6 divisions, organized virtual events engaging 70% of students, and spearheaded the shift to hybrid programs with 8+ successful initiatives.",
     tags: ["Leadership", "Team Work", "Time Management", "Responsibility"],
-    image: "/foto_osis.png",
+    image: "/foto_osis.jpg.jpeg",
   },
 ]
 

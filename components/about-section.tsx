@@ -24,7 +24,7 @@ export function AboutSection() {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div className="flex justify-center">
               <div className="relative w-64 h-64 rounded-2xl overflow-hidden border-2 border-primary/20">
-                <Image src="/professional-portrait.png" alt="Profile photo" fill className="object-cover" />
+                <Image src="/FOTO IYEL.jpg" alt="Profile photo" fill className="object-cover" />
               </div>
             </div>
             <div className="space-y-6">

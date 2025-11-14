@@ -35,6 +35,13 @@ const projects = [
     tags: ["React.js", "Firebase", "CSS", "Figma"],
     image: "/SignUpPage.png",
     demo: "https://mimo-finance-app.vercel.app/",
+  },
+  {
+    title: "Garden (Game Programming Mid Test)",
+    description: "Garden is a scene of a 2D top-down pixel-art game built in Unity using tilemaps, sprite animations, and Cinemachine.",
+    tags: ["Game Programming", "WebGL", "Unity", "C#"],
+    image: "/SignUpPage.png",
+    demo: "https://drive.google.com/file/d/1tZxzgZGd3PoLmlRw8LQTNqNkjmLtXUzY/view?usp=drive_link",
   }
 ]
 

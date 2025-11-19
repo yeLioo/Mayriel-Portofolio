@@ -35,11 +35,6 @@ const projects = [
     tags: ["Game Programming", "WebGL", "Unity", "C#"],
     image: "/GardenMap.jpg",
     demo: "https://drive.google.com/file/d/1tZxzgZGd3PoLmlRw8LQTNqNkjmLtXUzY/view?usp=drive_link",
-    title: "Mimo: Finance Tracker (On Progress)",
-    description: "Mimo is a web-based finance tracker designed to simplify budgeting and spending management with real-time data and a modern, easy-to-use interface.",
-    tags: ["React.js", "Firebase", "CSS", "Figma"],
-    image: "/SignUpPage.png",
-    demo: "https://mimo-finance-app.vercel.app/",
   },
   {
     title: "Mimo: Finance Tracker (On Progress)",

@@ -30,6 +30,11 @@ const projects = [
     demo: "https://drive.google.com/file/d/1kfcjOjyti3s5hwLuPbAePNUHwUTleQ-O/view?usp=sharing",
   },
   {
+    title: "Garden (Game Programming)",
+    description: "Garden is a scene of a 2D top-down pixel-art game built in Unity using tilemaps, sprite animations, and Cinemachine.",
+    tags: ["Game Programming", "WebGL", "Unity", "C#"],
+    image: "/GardenMap.jpg",
+    demo: "https://drive.google.com/file/d/1tZxzgZGd3PoLmlRw8LQTNqNkjmLtXUzY/view?usp=drive_link",
     title: "Mimo: Finance Tracker (On Progress)",
     description: "Mimo is a web-based finance tracker designed to simplify budgeting and spending management with real-time data and a modern, easy-to-use interface.",
     tags: ["React.js", "Firebase", "CSS", "Figma"],
@@ -37,11 +42,11 @@ const projects = [
     demo: "https://mimo-finance-app.vercel.app/",
   },
   {
-    title: "Garden (Game Programming Mid Test)",
-    description: "Garden is a scene of a 2D top-down pixel-art game built in Unity using tilemaps, sprite animations, and Cinemachine.",
-    tags: ["Game Programming", "WebGL", "Unity", "C#"],
-    image: "/GardenMap.jpg",
-    demo: "https://drive.google.com/file/d/1tZxzgZGd3PoLmlRw8LQTNqNkjmLtXUzY/view?usp=drive_link",
+    title: "Mimo: Finance Tracker (On Progress)",
+    description: "Mimo is a web-based finance tracker designed to simplify budgeting and spending management with real-time data and a modern, easy-to-use interface.",
+    tags: ["React.js", "Firebase", "CSS", "Figma"],
+    image: "/SignUpPage.png",
+    demo: "https://mimo-finance-app.vercel.app/",
   }
 ]
 
